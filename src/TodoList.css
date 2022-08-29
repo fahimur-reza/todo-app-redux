@@ -1,0 +1,19 @@
+.list{
+    border :1px solid gray;
+    width: 802px;
+    height: 30px;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: calibri;
+    font-size: 20px;
+ 
+}
+button{
+    border :none;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    float: right;
+    font-family: calibri;
+    font-size: 18px;
+}
